@@ -44,7 +44,7 @@ git clone <https://github.com/ShauryGupta07/currency-convertor.git>
 2. Navigate to the project directory
 
 ```bash
-cd <repository-name>
+cd <currency-convertor>
 ```
 
 3. Install dependencies
